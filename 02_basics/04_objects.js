@@ -55,12 +55,12 @@ const {courseInstructor:instructor,courseName:cname} = course
 
 // JSON API
 
-// {
-//     // this two courley braces is simplt known as JSON
+{
+    // this two courley braces is simplt known as JSON
 
-//     "name" ; "raghav",
-//     "course" ; " flute"
-// }
+    "name" ; "raghav",
+    "course" ; " flute"
+}
 
 [
     // this is also an API
